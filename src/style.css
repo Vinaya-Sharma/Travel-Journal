@@ -1,0 +1,107 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  font-family: "Inter", sans-serif;
+}
+
+nav {
+  background-color: #f55a5a;
+  display: flex;
+  padding: 30px;
+  align-content: center;
+}
+
+nav div {
+  display: flex;
+  margin-right: auto;
+  margin-left: auto;
+}
+
+nav span {
+  padding-left: 10px;
+}
+
+.white {
+  color: white;
+}
+
+section {
+  padding: 20px;
+  display: flex;
+}
+
+.cover-img {
+  height: 200px;
+  text-align: left;
+  border-radius: 10px;
+}
+
+.locationStuff {
+  display: flex;
+  align-items: center;
+}
+
+.locationIcon {
+  height: 15px;
+}
+
+.content {
+  padding: 15px;
+}
+
+h3 {
+  margin-left: 15px;
+  font-weight: 400;
+}
+
+.location {
+  letter-spacing: 0.1em;
+}
+
+h1 {
+  margin-top: 15px;
+  font-weight: 700;
+  color: #2b283a;
+  font-size: 25px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 30px;
+  letter-spacing: 0em;
+  text-align: left;
+}
+
+h2 {
+  margin-top: 10px;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 700;
+  letter-spacing: 0em;
+  text-align: left;
+}
+
+section p {
+  padding-top: 15px;
+  font-style: normal;
+  font-weight: 400;
+  letter-spacing: 0em;
+  text-align: left;
+  color: #2b283a;
+  font-size: 13px;
+  max-width: 400px;
+}
+
+a:link,
+a:visited {
+  color: #918e9b;
+  font-size: 13px;
+}
+
+@media only screen and (max-width: 500px) {
+  .greyLink {
+    display: none;
+  }
+
+  h2 {
+    display: none;
+  }
+}
