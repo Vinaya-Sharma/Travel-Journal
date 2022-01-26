@@ -1,3 +1,8 @@
+# Just a little Travel Journal!! 
+<img width="609" alt="Screen Shot 2022-01-25 at 10 16 36 PM" src="https://user-images.githubusercontent.com/63084147/151098808-8cf28b8e-f4f9-42d1-b38f-ec4b3412034f.png">
+
+-----------------------------------------------
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
